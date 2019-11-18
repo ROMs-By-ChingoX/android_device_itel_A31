@@ -28,8 +28,10 @@ Tow Conditions , In Order To Get Good Results:
 - OMS Patches Must Be On: `` $REPO/device/*/*/patches/oms ``
 
 Start Patching, By:
-- `` cd device/doogee/x5/patches/oms ``
+- `` cd device/itel/a31/patches/oms ``
 - `` bash do.sh ``
+Or you can make easier
+- `` ./device/itel/a31/patches/oms/do.sh ``
 
 # Credits:
 | People Who Helped/Contributed : |
