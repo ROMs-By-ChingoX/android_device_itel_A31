@@ -30,7 +30,7 @@ Tow Conditions , In Order To Get Good Results:
 Start Patching, By:
 - `` cd device/itel/a31/patches/oms ``
 - `` bash do.sh ``
-Or you can make easier
+- Or you can make easier
 - `` ./device/itel/a31/patches/oms/do.sh ``
 
 # Credits:
