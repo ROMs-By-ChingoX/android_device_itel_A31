@@ -1,3 +1,4 @@
+# Inherit from a31 device
 $(call inherit-product, device/itel/A31/full_a31.mk)
 
 # Inherit some common LineageOS stuff.
