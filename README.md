@@ -34,6 +34,7 @@ Start Patching, By:
 # Credits:
 | People Who Helped/Contributed : |
 | :-------|
+| JoseBMX |
 | chingoboy |
 | SparXFusion |
 | Google |
